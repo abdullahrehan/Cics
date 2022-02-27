@@ -1,0 +1,29 @@
+.Watchlist-maindiv{
+position: relative;
+height: 100%;
+}
+.watclist-header-div {
+    position: absolute;
+    width: 100%;
+    text-align: start;
+    padding-left: 4%;
+    z-index: 2;
+}
+.Watchlist-sliderdiv{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}.swiperslde2 {
+   
+    height: 87%;
+}
+.swiper-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    display: flex;
+    transition-property: transform;
+    top: -11%;
+    box-sizing: content-box;
+}
